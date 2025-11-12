@@ -1,0 +1,2 @@
+Python is a powerful programming language used for AI, web development, and automation.
+AI stands for Artificial Intelligence and allows machines to learn from data.
