@@ -1,6 +1,6 @@
 # 🤖 AI Chatbot Agent — Powered by FastAPI & Ollama
 
-![Chatbot Preview](app/static/niki0.png)
+![Chatbot Preview](ai-chatbot-agent/app/static/niki0.png)
 
 ## 🌟 Overview
 
